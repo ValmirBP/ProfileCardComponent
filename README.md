@@ -1,4 +1,3 @@
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ValmirBP/ProfileCardComponent/blob/master/LICENSE)
 
 # About:
